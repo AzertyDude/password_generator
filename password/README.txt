@@ -1,0 +1,1 @@
+Pour que le script fonctionne modifier la variable "chemin" en écirvant le chemin dans lequel se trouve le script
